@@ -15,13 +15,20 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br />
+
 ### ⚒️Cowork Tools
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=Notion&logoColor=white)
 <br />
+
 ### ⌨️BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=18_12847)](https://solved.ac/18_12847/)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer"/>
+<br />
+
+### 👑Award
+<a href = "https://dacon.io/competitions/official/236146/overview/description">월간 데이콘 쇼츠 - 초전도체 임계온도 예측 AI 해커톤 (<u>Private 1위🥇 / 82명</u>, Public 8위)</a>
+<br />
+<a href = "https://dacon.io/competitions/open/236166/overview/description" />데이콘 Basic 추석 맞이 추석 선물 수요량 예측 AI 경진대회 (<u>Private 1위🥇 / 228명</u>, Public 1위🥇)
 </div>
